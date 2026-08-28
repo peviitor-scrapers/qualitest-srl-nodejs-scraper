@@ -10,22 +10,22 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-08-27 |
+| Last Scraped | 2026-08-28 |
 
-## Current Job Listings (23)
+## Current Job Listings (22)
 
-_Generated: 2026-08-27T17:21:32.246Z_
-
-### Senior Embedded Engineer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/57481544/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/57481544/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
+_Generated: 2026-08-28T18:14:16.598Z_
 
 ### Office Admin
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/](https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Senior Embedded Engineer
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/57481544/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/57481544/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -58,13 +58,6 @@ _Generated: 2026-08-27T17:21:32.246Z_
 - **Location:** București
 - **Status:** scraped
 
-### System Solution Engineer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-System%E2%80%AFSolution%E2%80%AFEngineer/53198544/](https://careers.quality-ai.com/job/Bucharest-System%E2%80%AFSolution%E2%80%AFEngineer/53198544/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Hardware Engineer (on-site)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/](https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/)
@@ -82,13 +75,6 @@ _Generated: 2026-08-27T17:21:32.246Z_
 ### Junior FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/](https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Senior Full Stack Developer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -117,6 +103,13 @@ _Generated: 2026-08-27T17:21:32.246Z_
 ### Senior Full Stack Developer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Senior Full Stack Developer
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
