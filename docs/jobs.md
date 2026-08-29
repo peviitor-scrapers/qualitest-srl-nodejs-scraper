@@ -10,22 +10,22 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-08-28 |
+| Last Scraped | 2026-08-29 |
 
 ## Current Job Listings (22)
 
-_Generated: 2026-08-28T18:14:16.598Z_
-
-### Office Admin
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/](https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
+_Generated: 2026-08-29T12:21:08.344Z_
 
 ### Senior Embedded Engineer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/57481544/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/57481544/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Office Admin
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/](https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -102,14 +102,14 @@ _Generated: 2026-08-28T18:14:16.598Z_
 
 ### Senior Full Stack Developer
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
 ### Senior Full Stack Developer
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57482444/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
