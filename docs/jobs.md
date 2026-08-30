@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-08-29 |
+| Last Scraped | 2026-08-30 |
 
 ## Current Job Listings (22)
 
-_Generated: 2026-08-29T12:21:08.344Z_
+_Generated: 2026-08-30T11:19:54.669Z_
 
 ### Senior Embedded Engineer
 
@@ -58,16 +58,16 @@ _Generated: 2026-08-29T12:21:08.344Z_
 - **Location:** București
 - **Status:** scraped
 
-### Hardware Engineer (on-site)
+### Junior DSP Electrical Engineer - Radio & Communications
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/](https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications/57016244/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
-### Junior DSP Electrical Engineer - Radio & Communications
+### Hardware Engineer (on-site)
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications/57016244/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/](https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
