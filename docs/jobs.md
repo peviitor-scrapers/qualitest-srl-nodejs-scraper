@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-02 |
+| Last Scraped | 2026-09-03 |
 
-## Current Job Listings (22)
+## Current Job Listings (23)
 
-_Generated: 2026-09-02T10:42:48.156Z_
+_Generated: 2026-09-03T10:43:53.517Z_
 
 ### Senior Embedded Engineer
 
@@ -166,6 +166,13 @@ _Generated: 2026-09-02T10:42:48.156Z_
 ### Future Opportunities - Romania
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Future-Opportunities-Romania/23632444/](https://careers.quality-ai.com/job/Bucharest-Future-Opportunities-Romania/23632444/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Professional Services Engineer (Software Developer)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Professional-Services-Engineer-%28Software-Developer%29/59429344/](https://careers.quality-ai.com/job/Bucharest-Professional-Services-Engineer-%28Software-Developer%29/59429344/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
