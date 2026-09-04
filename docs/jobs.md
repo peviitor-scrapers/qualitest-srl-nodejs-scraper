@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-03 |
+| Last Scraped | 2026-09-04 |
 
 ## Current Job Listings (23)
 
-_Generated: 2026-09-03T10:43:53.517Z_
+_Generated: 2026-09-04T10:45:49.354Z_
 
 ### Senior Embedded Engineer
 
@@ -156,9 +156,9 @@ _Generated: 2026-09-03T10:43:53.517Z_
 - **Location:** București
 - **Status:** scraped
 
-### Salesforce Administrator
+### Kantata Administrator
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Salesforce-Administrator/58122044/](https://careers.quality-ai.com/job/Bucharest-Salesforce-Administrator/58122044/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Kantata-Administrator/58122044/](https://careers.quality-ai.com/job/Bucharest-Kantata-Administrator/58122044/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
