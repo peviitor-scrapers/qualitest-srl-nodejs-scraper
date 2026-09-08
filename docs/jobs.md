@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-07 |
+| Last Scraped | 2026-09-08 |
 
 ## Current Job Listings (23)
 
-_Generated: 2026-09-07T11:40:30.917Z_
+_Generated: 2026-09-08T10:39:39.742Z_
 
 ### Senior Embedded Engineer
 
