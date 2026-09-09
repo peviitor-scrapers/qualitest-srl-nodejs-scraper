@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-08 |
+| Last Scraped | 2026-09-09 |
 
 ## Current Job Listings (23)
 
-_Generated: 2026-09-08T10:39:39.742Z_
+_Generated: 2026-09-09T10:48:58.595Z_
 
 ### Senior Embedded Engineer
 
@@ -27,13 +27,6 @@ _Generated: 2026-09-08T10:39:39.742Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/](https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/)
 - **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Senior C\# Developer (Hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-C-Developer-%28Hybrid%29/56575644/](https://careers.quality-ai.com/job/Bucharest-Senior-C-Developer-%28Hybrid%29/56575644/)
-- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
@@ -132,6 +125,13 @@ _Generated: 2026-09-08T10:39:39.742Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Test Automation Lead (remote)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Test-Automation-Lead-%28remote%29/59610844/](https://careers.quality-ai.com/job/Bucharest-Test-Automation-Lead-%28remote%29/59610844/)
+- **Work Mode:** remote
 - **Location:** București
 - **Status:** scraped
 
