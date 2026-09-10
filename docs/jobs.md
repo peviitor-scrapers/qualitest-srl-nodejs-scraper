@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-09 |
+| Last Scraped | 2026-09-10 |
 
-## Current Job Listings (23)
+## Current Job Listings (20)
 
-_Generated: 2026-09-09T10:48:58.595Z_
+_Generated: 2026-09-10T10:42:01.326Z_
 
 ### Senior Embedded Engineer
 
@@ -58,13 +58,6 @@ _Generated: 2026-09-09T10:48:58.595Z_
 - **Location:** București
 - **Status:** scraped
 
-### Hardware Engineer (on-site)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/](https://careers.quality-ai.com/job/Bucharest-Hardware-Engineer-%28on-site%29/55698444/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Junior FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/](https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/)
@@ -103,20 +96,6 @@ _Generated: 2026-09-09T10:48:58.595Z_
 ### Senior Full Stack Developer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Senior Formal Verification Engineer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Formal-Verification-Engineer/58126744/](https://careers.quality-ai.com/job/Bucharest-Senior-Formal-Verification-Engineer/58126744/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Test Engineer (on-site)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Test-Engineer-%28on-site%29/56219344/](https://careers.quality-ai.com/job/Bucharest-Test-Engineer-%28on-site%29/56219344/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
