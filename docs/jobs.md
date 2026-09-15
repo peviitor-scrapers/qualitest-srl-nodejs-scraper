@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-14 |
+| Last Scraped | 2026-09-15 |
 
-## Current Job Listings (16)
+## Current Job Listings (17)
 
-_Generated: 2026-09-14T11:55:00.330Z_
+_Generated: 2026-09-15T11:09:44.402Z_
 
 ### Office Admin
 
@@ -30,13 +30,6 @@ _Generated: 2026-09-14T11:55:00.330Z_
 - **Location:** București
 - **Status:** scraped
 
-### Junior DSP Electrical Engineer - Radio & Communications
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications/57016244/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Junior FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/](https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/)
@@ -44,16 +37,16 @@ _Generated: 2026-09-14T11:55:00.330Z_
 - **Location:** București
 - **Status:** scraped
 
-### International Field Engineer
+### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/](https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/)
-- **Work Mode:** on-site
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
-### Middle DSP Electrical Engineer - Radio & Communications
+### International Field Engineer
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Electrical-Engineer-Radio-&-Communications/57017044/](https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Electrical-Engineer-Radio-&-Communications/57017044/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/](https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -69,6 +62,13 @@ _Generated: 2026-09-14T11:55:00.330Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Middle DSP Electrical Engineer - Radio & Communications (hybrid)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57017044/](https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57017044/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
@@ -97,6 +97,13 @@ _Generated: 2026-09-14T11:55:00.330Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications/54011244/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications/54011244/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Senior DSP Electrical Engineer - Radio & Communications (hybrid)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/59782844/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/59782844/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
