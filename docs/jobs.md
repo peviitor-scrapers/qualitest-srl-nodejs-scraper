@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-17 |
+| Last Scraped | 2026-09-18 |
 
-## Current Job Listings (19)
+## Current Job Listings (18)
 
-_Generated: 2026-09-17T11:02:25.066Z_
+_Generated: 2026-09-18T10:38:28.130Z_
 
 ### Office Admin
 
@@ -61,13 +61,6 @@ _Generated: 2026-09-17T11:02:25.066Z_
 ### FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Senior Full Stack Developer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/57518244/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
