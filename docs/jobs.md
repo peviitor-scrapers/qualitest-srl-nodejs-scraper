@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-22 |
+| Last Scraped | 2026-09-23 |
 
-## Current Job Listings (18)
+## Current Job Listings (16)
 
-_Generated: 2026-09-22T11:01:23.690Z_
+_Generated: 2026-09-23T10:50:26.306Z_
 
 ### Office Admin
 
@@ -51,6 +51,13 @@ _Generated: 2026-09-22T11:01:23.690Z_
 - **Location:** București
 - **Status:** scraped
 
+### Senior Full Stack Developer
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
 ### FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
@@ -65,13 +72,6 @@ _Generated: 2026-09-22T11:01:23.690Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior Full Stack Developer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Middle DSP Electrical Engineer - Radio & Communications (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57017044/](https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57017044/)
@@ -83,13 +83,6 @@ _Generated: 2026-09-22T11:01:23.690Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/)
 - **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Test Automation Lead (remote)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Test-Automation-Lead-%28remote%29/59610844/](https://careers.quality-ai.com/job/Bucharest-Test-Automation-Lead-%28remote%29/59610844/)
-- **Work Mode:** remote
 - **Location:** București
 - **Status:** scraped
 
@@ -131,13 +124,6 @@ _Generated: 2026-09-22T11:01:23.690Z_
 ### Future Opportunities - Romania
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Future-Opportunities-Romania/23632444/](https://careers.quality-ai.com/job/Bucharest-Future-Opportunities-Romania/23632444/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Professional Services Engineer (Software Developer)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Professional-Services-Engineer-%28Software-Developer%29/59429344/](https://careers.quality-ai.com/job/Bucharest-Professional-Services-Engineer-%28Software-Developer%29/59429344/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
