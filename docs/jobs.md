@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-23 |
+| Last Scraped | 2026-09-24 |
 
-## Current Job Listings (16)
+## Current Job Listings (15)
 
-_Generated: 2026-09-23T10:50:26.306Z_
+_Generated: 2026-09-24T11:10:32.807Z_
 
 ### Office Admin
 
@@ -37,13 +37,6 @@ _Generated: 2026-09-23T10:50:26.306Z_
 - **Location:** București
 - **Status:** scraped
 
-### Junior FPGA Engineer - Radio & Communications
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/](https://careers.quality-ai.com/job/Bucharest-Junior-FPGA-Engineer-Radio-&-Communications/57033044/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### International Field Engineer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/](https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/)
@@ -51,16 +44,16 @@ _Generated: 2026-09-23T10:50:26.306Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior Full Stack Developer
+### FPGA Engineer - Radio & Communications
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
-### FPGA Engineer - Radio & Communications
+### Senior Full Stack Developer
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
