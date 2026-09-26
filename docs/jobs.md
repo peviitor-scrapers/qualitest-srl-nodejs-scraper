@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-25 |
+| Last Scraped | 2026-09-26 |
 
 ## Current Job Listings (15)
 
-_Generated: 2026-09-25T11:14:34.035Z_
+_Generated: 2026-09-26T10:52:24.540Z_
 
 ### Office Admin
 
@@ -44,17 +44,17 @@ _Generated: 2026-09-25T11:14:34.035Z_
 - **Location:** București
 - **Status:** scraped
 
-### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Status:** scraped
-
 ### FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
