@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-27 |
+| Last Scraped | 2026-09-28 |
 
-## Current Job Listings (15)
+## Current Job Listings (14)
 
-_Generated: 2026-09-27T11:28:34.698Z_
+_Generated: 2026-09-28T13:00:47.421Z_
 
 ### Office Admin
 
@@ -37,10 +37,10 @@ _Generated: 2026-09-27T11:28:34.698Z_
 - **Location:** București
 - **Status:** scraped
 
-### International Field Engineer
+### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/](https://careers.quality-ai.com/job/Bucharest-International-Field-Engineer/58838444/)
-- **Work Mode:** on-site
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
@@ -55,13 +55,6 @@ _Generated: 2026-09-27T11:28:34.698Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
 - **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
-- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
