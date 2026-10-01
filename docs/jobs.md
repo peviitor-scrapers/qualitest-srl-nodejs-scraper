@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-09-30 |
+| Last Scraped | 2026-10-01 |
 
 ## Current Job Listings (15)
 
-_Generated: 2026-09-30T11:58:39.585Z_
+_Generated: 2026-10-01T12:30:55.644Z_
 
 ### Office Admin
 
@@ -44,17 +44,17 @@ _Generated: 2026-09-30T11:58:39.585Z_
 - **Location:** București
 - **Status:** scraped
 
-### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Status:** scraped
-
 ### Senior Full Stack Developer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
@@ -86,13 +86,6 @@ _Generated: 2026-09-30T11:58:39.585Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior DSP Electrical Engineer - Radio & Communications (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/59782844/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/59782844/)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Status:** scraped
-
 ### Technical Lead FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-FPGA-Engineer-Radio-&-Communications/57033744/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-FPGA-Engineer-Radio-&-Communications/57033744/)
@@ -100,16 +93,23 @@ _Generated: 2026-09-30T11:58:39.585Z_
 - **Location:** București
 - **Status:** scraped
 
-### Kantata Administrator
+### Senior DSP Electrical Engineer - Radio & Communications (hybrid)
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Kantata-Administrator/58122044/](https://careers.quality-ai.com/job/Bucharest-Kantata-Administrator/58122044/)
-- **Work Mode:** on-site
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/59782844/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/59782844/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
 ### Senior CPU Design Verification Engineer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-CPU-Design-Verification-Engineer/60250144/](https://careers.quality-ai.com/job/Bucharest-Senior-CPU-Design-Verification-Engineer/60250144/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Kantata Administrator
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Kantata-Administrator/58122044/](https://careers.quality-ai.com/job/Bucharest-Kantata-Administrator/58122044/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
