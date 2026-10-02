@@ -10,23 +10,16 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-10-01 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (15)
+## Current Job Listings (14)
 
-_Generated: 2026-10-01T12:30:55.644Z_
+_Generated: 2026-10-02T11:56:51.710Z_
 
 ### Office Admin
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/](https://careers.quality-ai.com/job/Bucharest-Office-Admin/56248144/)
 - **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Senior Full Stack Software Engineer (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Software-Engineer-%28hybrid%29/53774044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Software-Engineer-%28hybrid%29/53774044/)
-- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
@@ -44,17 +37,17 @@ _Generated: 2026-10-01T12:30:55.644Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior Full Stack Developer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Junior DSP Electrical Engineer - Radio & Communications (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Electrical-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
 - **Work Mode:** hybrid
+- **Location:** București
+- **Status:** scraped
+
+### Senior Full Stack Developer
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/](https://careers.quality-ai.com/job/Bucharest-Senior-Full-Stack-Developer/59854044/)
+- **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
