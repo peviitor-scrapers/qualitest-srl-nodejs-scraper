@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-10-07 |
+| Last Scraped | 2026-10-08 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-10-07T12:43:07.887Z_
+_Generated: 2026-10-08T12:52:54.002Z_
 
 ### Office Admin
 
