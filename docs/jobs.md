@@ -10,22 +10,22 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
-## Current Job Listings (17)
+## Current Job Listings (18)
 
-_Generated: 2026-10-22T11:13:14.257Z_
-
-### Senior Embedded Engineer
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
+_Generated: 2026-10-23T11:04:36.131Z_
 
 ### Middle Embedded Engineer
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-Embedded-Engineer/60678044/](https://careers.quality-ai.com/job/Bucharest-Middle-Embedded-Engineer/60678044/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Senior Embedded Engineer
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -40,13 +40,6 @@ _Generated: 2026-10-22T11:13:14.257Z_
 ### Technical Product Owner
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Product-Owner/59855344/](https://careers.quality-ai.com/job/Bucharest-Technical-Product-Owner/59855344/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
-### Operations Control Center Specialist (Level 2 Support)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -72,6 +65,13 @@ _Generated: 2026-10-22T11:13:14.257Z_
 - **Location:** București
 - **Status:** scraped
 
+### Operations Control Center Specialist (Level 2 Support)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
 ### Middle DSP Engineer - Radio & Communications (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57017044/](https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57017044/)
@@ -86,9 +86,16 @@ _Generated: 2026-10-22T11:13:14.257Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior DSP Engineer - Radio & Communications
+### Technical Lead Automation (hybrid)
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-Automation-%28hybrid%29/60920944/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-Automation-%28hybrid%29/60920944/)
+- **Work Mode:** hybrid
+- **Location:** București
+- **Status:** scraped
+
+### Modem Engineer (FPGA)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Modem-Engineer-%28FPGA%29/54011644/](https://careers.quality-ai.com/job/Bucharest-Modem-Engineer-%28FPGA%29/54011644/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -100,9 +107,9 @@ _Generated: 2026-10-22T11:13:14.257Z_
 - **Location:** București
 - **Status:** scraped
 
-### Modem Engineer (FPGA)
+### Senior DSP Engineer - Radio & Communications
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Modem-Engineer-%28FPGA%29/54011644/](https://careers.quality-ai.com/job/Bucharest-Modem-Engineer-%28FPGA%29/54011644/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
