@@ -10,11 +10,18 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (16)
+## Current Job Listings (17)
 
-_Generated: 2026-11-02T14:51:17.043Z_
+_Generated: 2026-11-03T13:41:03.437Z_
+
+### Senior Backend Developer with Python
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Backend-Developer-with-Python/61244144/](https://careers.quality-ai.com/job/Bucharest-Senior-Backend-Developer-with-Python/61244144/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
 
 ### Senior Embedded Engineer
 
@@ -44,13 +51,6 @@ _Generated: 2026-11-02T14:51:17.043Z_
 - **Location:** București
 - **Status:** scraped
 
-### Operations Control Center Specialist (Level 2 Support)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
@@ -62,6 +62,13 @@ _Generated: 2026-11-02T14:51:17.043Z_
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
 - **Work Mode:** hybrid
+- **Location:** București
+- **Status:** scraped
+
+### Operations Control Center Specialist (Level 2 Support)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
+- **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
