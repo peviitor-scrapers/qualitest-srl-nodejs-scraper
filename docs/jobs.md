@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
 ## Current Job Listings (17)
 
-_Generated: 2026-11-03T13:41:03.437Z_
+_Generated: 2026-11-04T13:50:02.626Z_
 
 ### Senior Backend Developer with Python
 
@@ -23,16 +23,16 @@ _Generated: 2026-11-03T13:41:03.437Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior Embedded Engineer
+### Middle Embedded Engineer
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-Embedded-Engineer/60678044/](https://careers.quality-ai.com/job/Bucharest-Middle-Embedded-Engineer/60678044/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
-### Middle Embedded Engineer
+### Senior Embedded Engineer
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-Embedded-Engineer/60678044/](https://careers.quality-ai.com/job/Bucharest-Middle-Embedded-Engineer/60678044/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/](https://careers.quality-ai.com/job/Bucharest-Senior-Embedded-Engineer/60678144/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -51,17 +51,17 @@ _Generated: 2026-11-03T13:41:03.437Z_
 - **Location:** București
 - **Status:** scraped
 
-### FPGA Engineer - Radio & Communications
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Junior DSP Engineer - Radio & Communications (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
 - **Work Mode:** hybrid
+- **Location:** București
+- **Status:** scraped
+
+### FPGA Engineer - Radio & Communications
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
+- **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
@@ -107,17 +107,17 @@ _Generated: 2026-11-03T13:41:03.437Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior DSP Engineer - Radio & Communications (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/59782844/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/59782844/)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Status:** scraped
-
 ### Technical Lead FPGA Engineer - Radio & Communications
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-FPGA-Engineer-Radio-&-Communications/57033744/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-FPGA-Engineer-Radio-&-Communications/57033744/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Senior DSP Engineer - Radio & Communications (hybrid)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/59782844/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/59782844/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
