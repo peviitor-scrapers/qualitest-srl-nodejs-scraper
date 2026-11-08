@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-11-07 |
+| Last Scraped | 2026-11-08 |
 
 ## Current Job Listings (17)
 
-_Generated: 2026-11-07T12:31:04.955Z_
+_Generated: 2026-11-08T12:49:13.162Z_
 
 ### Senior Backend Developer with Python
 
@@ -51,13 +51,6 @@ _Generated: 2026-11-07T12:31:04.955Z_
 - **Location:** București
 - **Status:** scraped
 
-### FPGA Engineer - Radio & Communications
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Junior DSP Engineer - Radio & Communications (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
@@ -68,6 +61,13 @@ _Generated: 2026-11-07T12:31:04.955Z_
 ### Operations Control Center Specialist (Level 2 Support)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### FPGA Engineer - Radio & Communications
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
