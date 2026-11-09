@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
 ## Current Job Listings (17)
 
-_Generated: 2026-11-08T12:49:13.162Z_
+_Generated: 2026-11-09T15:18:24.978Z_
 
 ### Senior Backend Developer with Python
 
@@ -51,17 +51,17 @@ _Generated: 2026-11-08T12:49:13.162Z_
 - **Location:** București
 - **Status:** scraped
 
-### Junior DSP Engineer - Radio & Communications (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Status:** scraped
-
 ### Operations Control Center Specialist (Level 2 Support)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
 - **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Junior DSP Engineer - Radio & Communications (hybrid)
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/](https://careers.quality-ai.com/job/Bucharest-Junior-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57016244/)
+- **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
 
@@ -79,17 +79,17 @@ _Generated: 2026-11-08T12:49:13.162Z_
 - **Location:** București
 - **Status:** scraped
 
-### Technical Lead DSP Electrical Engineer - Radio & Communications
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Technical Lead Automation (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-Automation-%28hybrid%29/60920944/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-Automation-%28hybrid%29/60920944/)
 - **Work Mode:** hybrid
+- **Location:** București
+- **Status:** scraped
+
+### Technical Lead DSP Electrical Engineer - Radio & Communications
+
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-DSP-Electrical-Engineer-Radio-&-Communications/57032544/)
+- **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
