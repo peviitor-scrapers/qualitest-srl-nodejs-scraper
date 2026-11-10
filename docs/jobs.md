@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
-## Current Job Listings (17)
+## Current Job Listings (16)
 
-_Generated: 2026-11-09T15:18:24.978Z_
+_Generated: 2026-11-10T14:23:54.568Z_
 
 ### Senior Backend Developer with Python
 
@@ -51,9 +51,9 @@ _Generated: 2026-11-09T15:18:24.978Z_
 - **Location:** București
 - **Status:** scraped
 
-### Operations Control Center Specialist (Level 2 Support)
+### FPGA Engineer - Radio & Communications
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -65,9 +65,9 @@ _Generated: 2026-11-09T15:18:24.978Z_
 - **Location:** București
 - **Status:** scraped
 
-### FPGA Engineer - Radio & Communications
+### Operations Control Center Specialist (Level 2 Support)
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/](https://careers.quality-ai.com/job/Bucharest-FPGA-Engineer-Radio-&-Communications/57033144/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/](https://careers.quality-ai.com/job/Bucharest-Operations-Control-Center-Specialist-%28Level-2-Support%29/60532644/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
@@ -75,13 +75,6 @@ _Generated: 2026-11-09T15:18:24.978Z_
 ### Middle DSP Engineer - Radio & Communications (hybrid)
 
 - **URL:** [https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57017044/](https://careers.quality-ai.com/job/Bucharest-Middle-DSP-Engineer-Radio-&-Communications-%28hybrid%29/57017044/)
-- **Work Mode:** hybrid
-- **Location:** București
-- **Status:** scraped
-
-### Technical Lead Automation (hybrid)
-
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Technical-Lead-Automation-%28hybrid%29/60920944/](https://careers.quality-ai.com/job/Bucharest-Technical-Lead-Automation-%28hybrid%29/60920944/)
 - **Work Mode:** hybrid
 - **Location:** București
 - **Status:** scraped
