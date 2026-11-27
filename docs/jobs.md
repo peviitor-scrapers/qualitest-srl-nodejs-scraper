@@ -10,11 +10,11 @@
 | Location | JUD. DOLJ, MUN. CRAIOVA, ALEEA 1 CASTANILOR, NR.2A, BL.65A1, SC.2, ET.1, AP.4 |
 | Website | [https://www.qualitest.com](https://www.qualitest.com) |
 | Careers | [https://careers.quality-ai.com/](https://careers.quality-ai.com/) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-26T16:27:47.853Z_
+_Generated: 2026-11-27T16:13:07.530Z_
 
 ### Senior Backend Developer with Python
 
@@ -58,16 +58,16 @@ _Generated: 2026-11-26T16:27:47.853Z_
 - **Location:** București
 - **Status:** scraped
 
-### Senior FPGA Engineer - Radio & Communications
+### Senior DSP Engineer - Radio & Communications
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-FPGA-Engineer-Radio-&-Communications/60724744/](https://careers.quality-ai.com/job/Bucharest-Senior-FPGA-Engineer-Radio-&-Communications/60724744/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
 
-### Senior DSP Engineer - Radio & Communications
+### Senior FPGA Engineer - Radio & Communications
 
-- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/](https://careers.quality-ai.com/job/Bucharest-Senior-DSP-Engineer-Radio-&-Communications/54011244/)
+- **URL:** [https://careers.quality-ai.com/job/Bucharest-Senior-FPGA-Engineer-Radio-&-Communications/60724744/](https://careers.quality-ai.com/job/Bucharest-Senior-FPGA-Engineer-Radio-&-Communications/60724744/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
